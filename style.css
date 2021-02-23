@@ -51,6 +51,9 @@ body{
   font-family: 'Quicksand', sans-serif;
   color:white;
   height: 450px;
+  width:800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .aboutimg{
     width:330px;
