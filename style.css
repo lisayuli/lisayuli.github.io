@@ -84,6 +84,16 @@ body{
   margin-bottom: 0px;
 }
 
+.label2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: white;
+  letter-spacing: 4px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 60px;
+}
+
 .medium{
   font-family: 'Raleway', sans-serif;
   font-size: 11px;
@@ -102,6 +112,25 @@ body{
   padding-top: 20px;
   margin-bottom: 0px;
 }
+.subsubtitles{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18pt;
+  letter-spacing: 5px;
+  color: white;
+  text-align: center;
+  padding-top: 90px;
+  margin-bottom: 0px;
+}
+
+.blurb{
+  font-size: 11pt;
+  width:800px;
+  font-family: 'Quicksand', sans-serif;
+  color:white;
+  text-align: center;
+  padding-left: 100px;
+}
+
 .download{
   font-size: 11pt;
   font-family: 'Raleway', sans-serif;
@@ -145,6 +174,7 @@ a:hover{
   color:white;
   text-decoration: none;
 }
+
 
 #video{
   object-fit: cover;
